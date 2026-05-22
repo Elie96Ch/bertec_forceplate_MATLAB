@@ -1,0 +1,20 @@
+# Do not upload Bertec SDK
+Bertec_Device_SDK_March_2026/
+BertecSDK*/
+x64/
+*.dll
+*.lib
+*.h
+*.xml
+*.pdf
+*.exe
+*.cs
+*.cpp
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+*.fig
+slprj/
+*.mex*
